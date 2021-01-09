@@ -15,7 +15,7 @@ product_name: aa,bb,cc,dd ...
 - 같은 속성값에 대한 값들을 쭉~저장하기때문에 같은 값들이 반복해서 나타날 수 있다. 이걸 압축 할 수 있다.
 - 비트맵 부호화(bitmap encoding)
 
-    ![column-oriented/Untitled.png](./column-oriented/Untitled.png)
+    ![bitmap encoding](./assets/Untitled.png)
 
     WHERE product_sk IN (30, 68, 69): 30, 68, 69에 대한 비트맵을 OR를 계산한다.
 
@@ -30,7 +30,7 @@ n이 크고 값의 종류가 적다 = 0이 더 많다(sparse하다) → **런렝
 
     [https://bcho.tistory.com/440](https://bcho.tistory.com/440)
 
-    ![column-oriented/Untitled1.png](./column-oriented/Untitled1.png)
+    ![cassandra column family](./assets/Untitled1.png)
 
 ### 칼럼 저장소의 순서 정렬
 

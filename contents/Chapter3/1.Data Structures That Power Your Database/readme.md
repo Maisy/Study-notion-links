@@ -113,7 +113,7 @@ LSM 트리
 **Multi-column index**
 
 - 결합 색인(concatenated index): 하나의 키에 여러 필드를 단순히 결합
-- e.g.) 지도에서 위도a~b + 경도 c~d까지 네모공간을 query할때
+- e.g.) 지도에서 위도 a ~ b + 경도 c ~ d까지 네모공간을 query할때
 
 **Fuzzy 검색 기술**
 

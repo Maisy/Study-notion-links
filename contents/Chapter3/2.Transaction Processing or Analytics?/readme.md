@@ -36,7 +36,7 @@ OLTP: 분석 시스템
 **분석용 스키마: 별 모양 스키마(star schema)와 눈꽃송이 모양 스키마**
 
 - star schema = dimensional modeling (차원 모델링)
-- **fact table(사실 테이블)**에 이벤트별로 데이터를 저장.(1 row = 1 event 발생). 로그를 쌓는 느낌으로?
+- **fact table(사실 테이블)** 에 이벤트별로 데이터를 저장.(1 row = 1 event 발생). 로그를 쌓는 느낌으로?
 - 정규화 테이블인데 fact table이 FK로 구성되어있다~
 - 테이블이 매우 커질 수 있다.
 - fact table의 일부 칼럼은 dimension table(차원 테이블)을 가르킨다. (외래키 참조)

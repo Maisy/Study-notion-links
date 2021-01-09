@@ -83,9 +83,9 @@ p102.
 - 최신 CPU에서 단일 명령 다중 데이터(single-instruction-multi-data, SIMD) 명령을 사용하게 만드는 방법
     - [https://m.blog.naver.com/fs0608/221650925743](https://m.blog.naver.com/fs0608/221650925743)
 
-    ![./questions/Untitled.png](./questions/Untitled.png)
+    ![SIMD](./assets/Untitled.png)
 
-    ![./questions/Untitled%201.png](./questions/Untitled%201.png)
+    ![SIMD2](./assets/Untitled%201.png)
 
 ## 우리는.. 뭘해야할까?
 

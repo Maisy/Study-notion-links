@@ -10,7 +10,7 @@
 
 [데이터베이스를 강력하게 만드는 데이터 구조](./1.Data%20Structures%20That%20Power%20Your%20Database/readme.md)
 
-[트랜잭션 처리나 분석](./2.Transaction%20Processing%20or%20Analytics?/readme.md)
+[트랜잭션 처리나 분석](./2.Transaction%20Processing%20or%20Analytics%3F/readme.md)
 
 [컬럼 지향 저장소](./3.Column-Oriented%20Storage/readme.md)
 

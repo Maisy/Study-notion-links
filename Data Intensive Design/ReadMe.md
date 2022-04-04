@@ -1,3 +1,14 @@
+# 데이터 중심 애플리케이션 설계
+
+https://maisy.notion.site/edu-ff53c329de16471bba675620c56241a2
+
+[Part1. 데이터 시스템의 기초](https://www.notion.so/Part1-5bfa81c95ba94a4f801741385ac526b3)
+
+[Part2. 분산 데이터](https://www.notion.so/Part2-7551b76bf3fa4742a0a6938cf5a992ee)
+
+[Part3. 파생 데이터](https://www.notion.so/Part3-68401983852d4e4fa9387d969f81453a)
+
+---
 Table of contents
 
 I. Foundations of Data Systems

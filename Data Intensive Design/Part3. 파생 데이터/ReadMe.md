@@ -25,7 +25,7 @@ e.g.) 캐시, 비정규화 값, 생긴, 구체화 뷰
 
 batch처리 데이터플로 시스템 + 관련된 도구
 
-[10. 일괄처리 (batch)](https://www.notion.so/10-batch-a26f3115e12042bbb6efb2431774abec)
+[10. 일괄처리 (batch)](https://maisy.notion.site/10-batch-a26f3115e12042bbb6efb2431774abec)
 
 데이터 스트림 시스템 + 관련된 도구
 

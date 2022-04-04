@@ -25,18 +25,18 @@
 
 ### 여러 노드에 데이터를 분산하는 방법
 
-[5. 복제](https://www.notion.so/5-03ebe6052d9b448488417c6e1a092b21)
+[5. 복제](https://maisy.notion.site/5-03ebe6052d9b448488417c6e1a092b21)
 
 - 같은 데이터의 복사본을 다른 위치에 있는 노드에 중복해서 유지함. 성능 향상에 도움 됨.
 - 데이터셋이 작아서 각 장비에 전체 데이터셋의 복사본을 갖고있는다.
 
-[6. 파티셔닝(샤딩)](https://www.notion.so/6-f7bb18c8193e4853b2a8c75e54c1ea4f)
+[6. 파티셔닝(샤딩)](https://maisy.notion.site/6-f7bb18c8193e4853b2a8c75e54c1ea4f)
 
 - 큰 데이터베이스를 파티션이라는 작은 서브셋으로 나누고 각 파티션은 각기 다른 노드에 할당(**샤딩**)
 - 단일장비에 넣기엔 너무 큰 데이터셋을 쪼개넣는다.
 
-[7. 트랜잭션](https://www.notion.so/7-c12057d2a4ea4340bd4878c640c2759d)
+[7. 트랜잭션](https://maisy.notion.site/7-c12057d2a4ea4340bd4878c640c2759d)
 
-[8. 분산시스템의 골칫거리](https://www.notion.so/8-b5bc50d24fbd480ea495228a671dd36d)
+[8. 분산시스템의 골칫거리](https://maisy.notion.site/8-b5bc50d24fbd480ea495228a671dd36d)
 
-[9. 일관성과 합의](https://www.notion.so/9-01c3068e6b8c478c9fd035dfe0ba8729)
+[9. 일관성과 합의](https://maisy.notion.site/9-01c3068e6b8c478c9fd035dfe0ba8729)

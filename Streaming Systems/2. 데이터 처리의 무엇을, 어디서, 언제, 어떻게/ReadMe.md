@@ -1,1 +1,1 @@
-[2. 데이터 처리의 무엇을, 어디서, 언제, 어떻게](https://www.notion.so/2-d830be04d2a746ab9972142dbf7867e4)
+[2. 데이터 처리의 무엇을, 어디서, 언제, 어떻게](https://maisy.notion.site/2-d830be04d2a746ab9972142dbf7867e4)

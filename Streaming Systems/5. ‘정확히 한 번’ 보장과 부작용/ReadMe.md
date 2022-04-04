@@ -1,1 +1,1 @@
-[5. ‘정확히 한 번’ 보장과 부작용](https://www.notion.so/5-65419e95e9424d848275fd2f35217ddc)
+[5. ‘정확히 한 번’ 보장과 부작용](https://maisy.notion.site/5-65419e95e9424d848275fd2f35217ddc)
